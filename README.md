@@ -1,5 +1,4 @@
-# wow
-# look
+# WOW
 # My Awesome Login Page
 
 This is a simple login page with a background video and a toggle button for dark/light mode. The page transitions to a different view after successful login.
